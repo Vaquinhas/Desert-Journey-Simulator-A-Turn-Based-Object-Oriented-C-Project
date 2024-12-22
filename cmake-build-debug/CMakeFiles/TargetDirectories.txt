@@ -1,0 +1,3 @@
+C:/Users/gonca/Documents/GitHub/Desert-Journey-Simulator-A-Turn-Based-Object-Oriented-C-Project/cmake-build-debug/CMakeFiles/Desert_Journey_Simulator_A_Turn_Based_Object_Oriented_C_Project.dir
+C:/Users/gonca/Documents/GitHub/Desert-Journey-Simulator-A-Turn-Based-Object-Oriented-C-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonca/Documents/GitHub/Desert-Journey-Simulator-A-Turn-Based-Object-Oriented-C-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
